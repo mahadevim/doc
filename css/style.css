@@ -1,0 +1,32 @@
+.image{
+    background-color: #2196F3;
+    height: 100vh;
+    padding-top: 30px;
+}
+.image h1{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+    padding-top: 25px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  .thumbnail{
+    margin-top: 50px;
+  }
+  .thumbnail>img {
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 100%;}

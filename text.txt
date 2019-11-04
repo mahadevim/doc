@@ -1,0 +1,91 @@
+ADVANCED HTML Tags--
+ 
+About HTML5:
+Hypertext Markup Language revision 5 (HTML5) is markup language for the structure and presentation of World Wide Web contents.
+ HTML5 supports the traditional HTML and XHTML-style syntax and other new features in its markup, New APIs, XHTML and error handling.
+
+Developed by,
+1991–1999: HTML is created by web legend Tim Berners-Lee in 1991, and HTML versions 1–4 are developed throughout the 1990s by W3C
+
+ Difference Between HTML vs HTML5
+In HTML video and audio are not supported whereas in HTML5, video, and audio are integrated into it. ... In HTML5 applet tag was removed which is used for displaying applets and object tag was introduced whereas, in HTML,
+ applet tag is being used.
+
+Depricated HTML5 tags:
+It means deleted elements in html5,
+<acronym>
+<applet>
+<basefont>
+<big>
+<blockquote>
+<center>
+<dir>
+<frame>
+<frameset>
+<font>
+<noframes>
+<strike>
+<tt>
+
+ADVANCED HTML5 tags:
+<abbr>-is used for indicating an abbreviation.
+<address>- it represents contact information for the document.
+<area>-defines an area inside an image-map
+<article>-self-contained composition in a document
+<aside>-represents a portion of a document
+<audio>-is an inline element used to embed sound files into a web page
+<base>-is used to specify a base URI, or URL, for relative links.
+<bdi>-purposes of bidirectional text formatting.
+<bdo>- is used override the default directionality of text
+<canvas>-is used to draw graphics
+<caption>- is used for creating table captions.
+<cite>- is used for indicating a citation
+<code>- is used for indicating a piece of code
+<col>- defines a column within a table 
+<colgroup>-is used for specifying properties for a group of columns within a table
+<datalist>- is used to provide an auto complete feature on form element
+<data>-assign custom data to an element.
+<dd>- is used to describe an item in a definition list
+<del>-is used to identify text that has been deleted from a document 
+<details>-specifies additional details that the user can view or hide on demand
+<dfn>-is used for indicating a definition
+<dialog>- is used to create a new popup dialog on a web page
+<dl>-defines a list of definitions/descriptions
+<dt>- is used for specifying a definition term in a definition list
+<em>-text is displayed in italics
+<embed>-Defines a container for an external (non-HTML) application
+<fieldset>-Groups related elements in a form
+<figcaption>-Defines a caption for a <figure> element
+<figure>-Specifies self-contained content
+<ins>- inserted text that replaced the deleted text.
+<kbd>-	Defines keyboard input
+<optgroup>-Defines a group of related options in a drop-down list
+<option>-Defines an option in a drop-down list
+<param>-Defines a parameter for an object
+<q>-Defines a short quotation
+<rp>-	Defines what to show in browsers that do not support ruby annotations
+<rt>-	Defines an explanation/pronunciation of characters
+<ruby>-	Defines a ruby annotation
+<s>-	Defines text that is no longer correct
+<samp>-	Defines sample output from a computer program
+<select>-Defines sample output from a computer program
+<summary>-Defines a visible heading for a <details> element
+<sup>-	Defines superscripted text
+<sub>-	Defines subscripted text
+<svg>-	Defines a container for SVG graphics
+<template>-	Defines a template
+<textarea>-	Defines a multiline input control
+<map>-	Defines a client-side image-map
+<mark>-	Defines marked/highlighted text
+<meter>-Defines a scalar measurement within a known range (a gauge)
+<time>-	Defines a date/time
+<track>-Defines text tracks for media elements
+<var>-	Defines a variable
+<video>-Defines a video or movie
+<wbr> -	Defines a possible line-break
+
+ADVANCED CSS3 tags:
+
+Grid,
+Flex,
+Animation.
